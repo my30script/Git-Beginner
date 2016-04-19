@@ -1,2 +1,2 @@
 # Git-Beginner
-my first respository in github
+My first respository in github
